@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SnakesLadders",
+            "request": "launch",
+            "mainClass": "SnakesLadders",
+            "projectName": "src_5f950edf"
+        }
+    ]
+}
